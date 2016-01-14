@@ -35,15 +35,7 @@
 						<artifactId>maven-jar-plugin</artifactId>
 						<version>2.6</version>
 						<configuration>
-						<!--Pluging configuration -->
-						 <archive>
-							<manifest>
-								<!-- Jar file entry point -->
-								<mainClass>myApp_49040614Z.App</mainClass>
-								<addClasspath>true</addClasspath>
-								<classpathPrefix>dependencias/</classpathPrefix>
-							</manifest>
-						  </archive>
+							<finalName>myApp_49040614Z.App</finalName>  
 						</configuration>
 					</plugin>
 			
