@@ -35,7 +35,7 @@
 						<artifactId>maven-jar-plugin</artifactId>
 						<version>2.6</version>
 						<configuration>
-							<finalName>myApp_49040614Z.App</finalName>  
+							<finalName>myApp_49040614Z</finalName>  
 						</configuration>
 					</plugin>
 			
